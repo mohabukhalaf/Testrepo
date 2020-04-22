@@ -3,5 +3,6 @@ public class whateverClass {
     public void display()
     {
         System.out.println("hello your id is"+ Id);
+
     }
 }
